@@ -1,0 +1,83 @@
+{  "products":
+[
+  {
+  "id": 1,
+  "name": "Cordylus giganteus",
+  "category": "Orange"
+}, {
+  "id": 2,
+  "name": "Papilio canadensis",
+  "category": "Crimson"
+}, {
+  "id": 3,
+  "name": "Casmerodius albus",
+  "category": "Turquoise"
+}, {
+  "id": 4,
+  "name": "Otaria flavescens",
+  "category": "Mauv"
+}, {
+  "id": 5,
+  "name": "Anhinga rufa",
+  "category": "Aquamarine"
+}, {
+  "id": 6,
+  "name": "Neotis denhami",
+  "category": "Violet"
+}, {
+  "id": 7,
+  "name": "Tayassu pecari",
+  "category": "Red"
+}, {
+  "id": 8,
+  "name": "Lutra canadensis",
+  "category": "Violet"
+}, {
+  "id": 9,
+  "name": "Ourebia ourebi",
+  "category": "Green"
+}, {
+  "id": 10,
+  "name": "Chlidonias leucopterus",
+  "category": "Goldenrod"
+}, {
+  "id": 11,
+  "name": "Spermophilus tridecemlineatus",
+  "category": "Crimson"
+}, {
+  "id": 12,
+  "name": "Varanus sp.",
+  "category": "Maroon"
+}, {
+  "id": 13,
+  "name": "Nannopterum harrisi",
+  "category": "Indigo"
+}, {
+  "id": 14,
+  "name": "Tragelaphus strepsiceros",
+  "category": "Pink"
+}, {
+  "id": 15,
+  "name": "Tayassu pecari",
+  "category": "Orange"
+}, {
+  "id": 16,
+  "name": "Eudromia elegans",
+  "category": "Orange"
+}, {
+  "id": 17,
+  "name": "Pseudocheirus peregrinus",
+  "category": "Fuscia"
+}, {
+  "id": 18,
+  "name": "Lutra canadensis",
+  "category": "Puce"
+}, {
+  "id": 19,
+  "name": "Pelecans onocratalus",
+  "category": "Purple"
+}, {
+  "id": 20,
+  "name": "Phoenicopterus chilensis",
+  "category": "Indigo"
+}]}
